@@ -11,6 +11,9 @@ var article = require('./routes/article');
 
 var app = express();
 
+
+
+
 // view engine setup  设置模板引擎
 app.set('views', path.join(__dirname, 'views'));//设置模板的存放目录
 app.set('view engine', 'html');//设置模板引擎
