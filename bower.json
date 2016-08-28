@@ -1,16 +1,19 @@
 {
-  "name": "zhufengpeixunblog",
+  "name": "201605blog2",
   "description": "",
   "main": "",
+  "authors": [
+    "zhufengnodejs <zhufengnodejs@126.com>"
+  ],
   "license": "MIT",
-  "homepage": "https://github.com/Dragon81708/debug",
+  "homepage": "https://github.com/zhufengnodejs/201605blog2",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "./public/lib",
     "test",
-    "tests"
+    "tests",
+    "./public/lib"
   ],
   "dependencies": {
     "bootstrap": "^3.3.7"
